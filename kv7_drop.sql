@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS "dataowner";
+DROP TABLE IF EXISTS "line";
+DROP TABLE IF EXISTS "destination";
+DROP TABLE IF EXISTS "destinationvia";
+DROP TABLE IF EXISTS "timingpoint";
+DROP TABLE IF EXISTS "usertimingpoint";
+DROP TABLE IF EXISTS "stoparea" ;
+DROP TABLE IF EXISTS "localservicegrouppasstime";
+DROP TABLE IF EXISTS "localservicegroup";
+DROP TABLE IF EXISTS "localservicegroupvalidity";
